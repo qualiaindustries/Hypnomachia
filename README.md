@@ -8,4 +8,4 @@ An performative installation in which two sleeping subjects engage in a sublimin
 
 DOCS > Relevant Documentation
 SW   > Python code, MaxMSP patch
-HW   > Tacs Schematics
+HW   > tACS Schematics
