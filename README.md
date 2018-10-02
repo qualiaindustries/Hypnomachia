@@ -7,7 +7,7 @@ A performative installation in which two sleeping subjects engage in a sublimina
 ******** Docs Structure ********
 
 - DOCS > Relevant Documentation.
-- SW   > Python code, MaxMSP patch.
+- SW   > Python and Arduino code, MaxMSP patch
 - HW   > tACS Schematics.
 
 
