@@ -1,8 +1,8 @@
 Documentation of Hypnomachia Art Project
 
-******** The Project ********
+******** About ********
 
-A performative installation in which two sleeping subjects engage in a subliminal conflict where they influence each other’s brain activity.
+Hypnomachia is a performative installation in which two sleeping subjects engage in a subliminal conflict where they influence each other’s brain activity.
 
 ******** Structure ********
 
