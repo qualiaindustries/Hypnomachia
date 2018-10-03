@@ -8,4 +8,4 @@ This is code that:
 
 uses zeo-raw-data-api to read brainwaves and send it over OSC
 sends data to an arduino controlling a tacs device.
-DISCLAIMER: I claim no copyright or ownership of any of this code. This code has NOT been tested, and you use it ENTIRELY AT YOUR OWN RISK.
+DISCLAIMER: I claim no copyright or ownership of any of this code.
