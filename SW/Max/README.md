@@ -1,1 +1,2 @@
 Tested with MaxMSP 7.3.4.
+in Max go to "Options > File Preferences" and add the folder "HM-Abstractions"
