@@ -125,6 +125,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"title" : "H Y P N O M A C H I A",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-45",
@@ -507,12 +508,12 @@
 , 											{
 												"name" : "m4vatextbutton",
 												"default" : 												{
-													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-													"fontsize" : [ 14.0 ],
-													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"fontsize" : [ 14.0 ],
+													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -1204,7 +1205,7 @@
 								"box" : 								{
 									"angle" : 270.0,
 									"background" : 1,
-									"bgcolor" : [ 0.50196, 0.0, 0.008131, 1.0 ],
+									"bgcolor" : [ 0.210875, 0.213948, 0.231009, 1.0 ],
 									"id" : "obj-19",
 									"maxclass" : "panel",
 									"mode" : 0,
@@ -1223,7 +1224,7 @@
 								"box" : 								{
 									"angle" : 270.0,
 									"background" : 1,
-									"bgcolor" : [ 0.298039, 0.298039, 0.298039, 1.0 ],
+									"bgcolor" : [ 0.210875, 0.213948, 0.231009, 1.0 ],
 									"id" : "obj-4",
 									"maxclass" : "panel",
 									"mode" : 0,
@@ -1291,7 +1292,6 @@
 													"numinlets" : 1,
 													"numoutlets" : 0,
 													"patching_rect" : [ 408.5, 22.0, 53.0, 20.0 ],
-													"presentation_rect" : [ 395.333313, 23.0, 0.0, 0.0 ],
 													"style" : "",
 													"text" : "APPLY"
 												}
@@ -1436,7 +1436,7 @@
 																	"maxclass" : "inlet",
 																	"numinlets" : 0,
 																	"numoutlets" : 1,
-																	"outlettype" : [ "bang" ],
+																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 50.0, 40.0, 30.0, 30.0 ],
 																	"style" : ""
 																}
@@ -1526,12 +1526,12 @@
 , 															{
 																"name" : "m4vatextbutton",
 																"default" : 																{
-																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-																	"fontsize" : [ 14.0 ],
-																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontsize" : [ 14.0 ],
+																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -1840,7 +1840,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 257.0, 330.341309, 50.0, 35.0 ],
 																	"style" : "",
-																	"text" : "0.298039 0.298039 0.298039 1."
+																	"text" : "0.207588 0.210777 0.228482 1."
 																}
 
 															}
@@ -2275,7 +2275,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 275.866699, 139.341309, 12.0, 35.0 ],
 																	"style" : "",
-																	"text" : "76 76 75"
+																	"text" : "52 53 58"
 																}
 
 															}
@@ -2290,7 +2290,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 244.866699, 139.341309, 12.0, 40.0 ],
 																	"style" : "",
-																	"text" : "0.298039 0.298039 0.298039 1."
+																	"text" : "0.207588 0.210777 0.228482 1."
 																}
 
 															}
@@ -4473,12 +4473,12 @@
 , 															{
 																"name" : "m4vatextbutton",
 																"default" : 																{
-																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-																	"fontsize" : [ 14.0 ],
-																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontsize" : [ 14.0 ],
+																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -5018,12 +5018,12 @@
 , 															{
 																"name" : "m4vatextbutton",
 																"default" : 																{
-																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-																	"fontsize" : [ 14.0 ],
-																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontsize" : [ 14.0 ],
+																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -5563,12 +5563,12 @@
 , 															{
 																"name" : "m4vatextbutton",
 																"default" : 																{
-																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-																	"fontsize" : [ 14.0 ],
-																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontsize" : [ 14.0 ],
+																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -5858,7 +5858,7 @@
 , 											{
 												"box" : 												{
 													"angle" : 270.0,
-													"bgcolor" : [ 0.298039, 0.298039, 0.298039, 1.0 ],
+													"bgcolor" : [ 0.207588, 0.210777, 0.228482, 1.0 ],
 													"id" : "obj-50",
 													"maxclass" : "panel",
 													"mode" : 0,
@@ -6507,12 +6507,12 @@
 , 											{
 												"name" : "m4vatextbutton",
 												"default" : 												{
-													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-													"fontsize" : [ 14.0 ],
-													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"fontsize" : [ 14.0 ],
+													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -7229,12 +7229,12 @@
 , 											{
 												"name" : "m4vatextbutton",
 												"default" : 												{
-													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-													"fontsize" : [ 14.0 ],
-													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"fontsize" : [ 14.0 ],
+													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8616,12 +8616,12 @@
 , 															{
 																"name" : "m4vatextbutton",
 																"default" : 																{
-																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-																	"fontsize" : [ 14.0 ],
-																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+																	"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 																	"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+																	"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+																	"fontsize" : [ 14.0 ],
+																	"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 																}
 ,
 																"parentstyle" : "",
@@ -8722,12 +8722,12 @@
 , 											{
 												"name" : "m4vatextbutton",
 												"default" : 												{
-													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-													"fontsize" : [ 14.0 ],
-													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"fontsize" : [ 14.0 ],
+													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -8956,7 +8956,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 150.0, 372.0, 93.0, 22.0 ],
 																	"style" : "",
-																	"text" : "21:45:35"
+																	"text" : "10:26:23"
 																}
 
 															}
@@ -9531,7 +9531,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 288.5, 240.0, 50.0, 22.0 ],
 																	"style" : "",
-																	"text" : "35"
+																	"text" : "23"
 																}
 
 															}
@@ -10181,7 +10181,7 @@
 																	"outlettype" : [ "" ],
 																	"patching_rect" : [ 174.0, 203.0, 50.0, 22.0 ],
 																	"style" : "",
-																	"text" : "45"
+																	"text" : "26"
 																}
 
 															}
@@ -10725,12 +10725,12 @@
 , 											{
 												"name" : "m4vatextbutton",
 												"default" : 												{
-													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-													"fontsize" : [ 14.0 ],
-													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+													"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 													"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+													"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+													"fontsize" : [ 14.0 ],
+													"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 												}
 ,
 												"parentstyle" : "",
@@ -10974,12 +10974,12 @@
 , 							{
 								"name" : "m4vatextbutton",
 								"default" : 								{
-									"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-									"fontsize" : [ 14.0 ],
-									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+									"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 									"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-									"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+									"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+									"fontsize" : [ 14.0 ],
+									"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -11410,12 +11410,12 @@
 , 			{
 				"name" : "m4vatextbutton",
 				"default" : 				{
-					"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ],
-					"fontsize" : [ 14.0 ],
-					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"elementcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
 					"bgcolor" : [ 0.264542, 0.246412, 0.247132, 1.0 ],
-					"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ]
+					"accentcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"fontsize" : [ 14.0 ],
+					"selectioncolor" : [ 0.960784, 0.827451, 0.156863, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
