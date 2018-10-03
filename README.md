@@ -4,7 +4,7 @@ Documentation of Hypnomachia Art Project
 
 A performative installation in which two sleeping subjects engage in a subliminal conflict where they influence each other’s brain activity.
 
-******** Docs Structure ********
+******** Structure ********
 
 - DOCS > Relevant Documentation.
 - SW   > Python and Arduino code, MaxMSP patch
